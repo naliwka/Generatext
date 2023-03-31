@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Generatext
 {
-    internal class SentencesParser
+    static class SentencesParser
     {
         public static bool IsWord(string word)
         {
